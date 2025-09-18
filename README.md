@@ -1,6 +1,6 @@
 # 🛣️ CleanAirRoute | 미세먼지 회피 경로 추천 앱 (Android)
 
-![Flux_Dev_A_minimalistic_app_icon_featuring_a_bright_yellow_roa_1.jpeg](https://github.com/prisma77/CleanAirRoute/assets/12345678/some-uuid) <!-- 실제 이미지 경로로 교체 필요 -->
+![앱 아이콘](assets/images/Flux_Dev_A_minimalistic_app_icon_featuring_a_bright_yellow_roa_1.jpeg)
 
 안녕하세요!
 
@@ -56,7 +56,7 @@ CleanAirRoute/
 
 ---
 
-![경진대회.jpg](https://github.com/prisma77/CleanAirRoute/assets/12345678/some-uuid) <!-- 실제 이미지 경로로 교체 필요 -->
+![경진대회 포스터](assets/images/경진대회.jpg)
 
 ---
 
